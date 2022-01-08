@@ -1,7 +1,7 @@
 # OpenVK Mobile Dark 
 Тема для OpenVK, окрашивающая мобильную тему в тёмные цвета
 
-Доступно в Stylus: скоро)
+Доступно в Stylus: https://userstyles.world/style/2653/openvk-mobile-dark
 ## Примечания
 - Применяйте с темой **OpenVK Mobile**
 ## Как установить?

@@ -166,3 +166,4 @@ h1, h2, h3, h4, label{
 }
 .button.cfa.login, .button {background-color: #424242;}
 .button.cfa.login:hover, .button:hover {background-color: #333333;}
+.attachments_b .attachment .post {background-image: none;}

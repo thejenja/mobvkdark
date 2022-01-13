@@ -63,6 +63,12 @@ p{
 .post>.actions {
     border-bottom: 1px solid #353535;
 }
+.content_post_comments {
+    background-color: #222222;
+}
+.comment_body{
+    color: #e1e1e1;
+}
 .button.bold.commentbtn {
     color: #e1e1e1;
     background: #191919 url(/themepack/mobvk/0.0.1.0/resource/cum.png) no-repeat;

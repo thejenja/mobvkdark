@@ -9,8 +9,11 @@ input[type="text"],input[type="password"],input[type~="text"],input[type~="passw
     outline-color: #202020;
 }
 .button.cfa {
-    border: #424242;
     background: #424242;
+    color: #fff;
+}
+.button.cfa:hover {
+    background: #333;
     color: #fff;
 }
 .paginator {
@@ -130,3 +133,10 @@ h1, h2, h3, h4, label{color: #e1e1e1 !important;}
 .button.cfa.login, .button {background-color: #424242;}
 .button.cfa.login:hover, .button:hover {background-color: #333333;}
 .attachments_b .attachment .post {background-image: none;}
+.crp-entry:hover{background-color: #222222;}
+.messenger-app--input {
+    background: #252525;
+    border-top: 1px solid #313131;
+}
+.messenger-app {background: #191919;}
+.messenger-app--messages---message .text{color: #fff;}

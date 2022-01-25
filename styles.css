@@ -140,3 +140,6 @@ h1, h2, h3, h4, label{color: #e1e1e1 !important;}
 }
 .messenger-app {background: #191919;}
 .messenger-app--messages---message .text{color: #fff;}
+.menu>.element>a>.counter {
+    color: #777;
+}

@@ -144,3 +144,6 @@ h1, h2, h3, h4, label{color: #e1e1e1 !important;}
     color: #777;
 }
 div[style="width: 75%; display: inline-block;"] > center{color: #eaeaea;}
+.photobody {
+    background: #222;
+}

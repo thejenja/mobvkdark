@@ -147,3 +147,6 @@ div[style="width: 75%; display: inline-block;"] > center{color: #eaeaea;}
 .photobody {
     background: #222;
 }
+.messenger-app--messages---message.unread {
+    background-color: #444343;
+}
